@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Abraham Lincoln",
+    "category": "Politician",
+    "description": "Abraham Lincoln, with his towering frame and humble demeanor, embodied wisdom and compassion, guiding a fractured nation through its darkest hours with unwavering resolve.",
+    "image_url": ""
+  },
+  {
+    "name": "Thomas Piketty",
+    "category": "Economist",
+    "description": "Thomas Piketty captivates audiences with his passionate advocacy for economic equality, wielding data like a sword against the injustices of wealth disparity.",
+    "image_url": ""
+  },
+  {
+    "name": "Angela Merkel",
+    "category": "Politician",
+    "description": "Angela Merkel, the steadfast chancellor, navigated crises with calm resolve, her pragmatic approach and quiet strength earning her the nickname \"the Iron Lady of Europe.\".",
+    "image_url": ""
+  },
+  {
+    "name": "Franklin D. Roosevelt",
+    "category": "Politician",
+    "description": "Franklin D. Roosevelt exuded unwavering optimism, his charismatic speeches igniting hope in a nation grappling with despair during the Great Depression.",
+    "image_url": ""
+  },
+  {
+    "name": "Elinor Ostrom",
+    "category": "Economist",
+    "description": "Elinor Ostrom, a trailblazing economist, championed the power of communities to manage resources, shattering conventional wisdom with her groundbreaking insights and vibrant advocacy.",
+    "image_url": ""
+  },
+  {
+    "name": "Sailor Moon",
+    "category": "Anime",
+    "description": "With her radiant smile and unwavering courage, Sailor Moon embodies the spirit of friendship and justice, inspiring countless fans to believe in their own power.",
+    "image_url": ""
+  },
+  {
+    "name": "Black Panther",
+    "category": "Movie",
+    "description": "With regal poise and fierce determination, Black Panther embodies the spirit of resilience, uniting a nation while inspiring the world with his unwavering courage.",
+    "image_url": ""
+  },
+  {
+    "name": "John Maynard Keynes",
+    "category": "Economist",
+    "description": "John Maynard Keynes, with his sharp wit and flamboyant style, revolutionized economics, championing bold government intervention to spark prosperity in turbulent times.",
+    "image_url": ""
+  },
+  {
+    "name": "Mikasa Ackerman",
+    "category": "Anime",
+    "description": "With fierce determination and unwavering loyalty, Mikasa Ackerman stands as an indomitable force, slicing through despair with her blades and protecting those she loves.",
+    "image_url": ""
+  },
+  {
+    "name": "Light Yagami",
+    "category": "Anime",
+    "description": "With a cunning smile and piercing gaze, Light Yagami embodies the chilling allure of justice, wielding a deadly notebook to reshape the world.",
+    "image_url": ""
+  },
+  {
+    "name": "Nikola Tesla",
+    "category": "Scientist",
+    "description": "Nikola Tesla, the enigmatic visionary, danced with lightning and dreams, illuminating the world with his boundless imagination and relentless pursuit of innovation.",
+    "image_url": ""
+  },
+  {
+    "name": "Wonder Woman",
+    "category": "Movie",
+    "description": "With her unwavering courage and unbreakable spirit, Wonder Woman embodies the fierce protector, championing justice and inspiring hope in a world filled with darkness.",
+    "image_url": ""
+  },
+  {
+    "name": "Janet Yellen",
+    "category": "Economist",
+    "description": "Janet Yellen exudes a calm authority, deftly navigating complex economic landscapes with a blend of intellect and empathy that inspires confidence in her leadership.",
+    "image_url": ""
+  },
+  {
+    "name": "Rocky Balboa",
+    "category": "Movie",
+    "description": "Rocky Balboa, the relentless underdog, embodies grit and determination, inspiring millions with his unwavering spirit and heart-pounding triumphs against all odds.",
+    "image_url": ""
+  },
+  {
+    "name": "Goku",
+    "category": "Anime",
+    "description": "With an infectious grin and boundless energy, Goku embodies unwavering determination and a heart full of kindness, inspiring friends and foes alike to reach their potential.",
+    "image_url": ""
+  },
+  {
+    "name": "Tony Stark",
+    "category": "Movie",
+    "description": "With a dazzling smile and a sharp wit, Tony Stark effortlessly blends genius innovation with flamboyant charisma, captivating audiences and redefining what it means to be a hero.",
+    "image_url": ""
+  },
+  {
+    "name": "Mahatma Gandhi",
+    "category": "Politician",
+    "description": "Mahatma Gandhi, the embodiment of peaceful resistance, inspired millions with his unwavering commitment to nonviolence and justice, radiating humility and strength in every step.",
+    "image_url": ""
+  },
+  {
+    "name": "Paul Krugman",
+    "category": "Economist",
+    "description": "Paul Krugman, with his incisive wit and sharp critiques, boldly navigates economic debates, challenging conventional wisdom while advocating for progressive policies with unwavering conviction.",
+    "image_url": ""
+  },
+  {
+    "name": "Marie Curie",
+    "category": "Scientist",
+    "description": "Marie Curie radiated unwavering determination, breaking barriers in science with her groundbreaking discoveries, while embodying a fierce intellect and an indomitable spirit.",
+    "image_url": ""
+  },
+  {
+    "name": "Alan Turing",
+    "category": "Scientist",
+    "description": "Alan Turing, the brilliant mathematician and codebreaker, embodied both genius and eccentricity, unraveling the mysteries of computation while challenging societal norms with quiet defiance.",
+    "image_url": ""
+  },
+  {
+    "name": "David Ricardo",
+    "category": "Economist",
+    "description": "David Ricardo, the pioneering economist, championed free trade with fervor, his sharp intellect illuminating the complexities of comparative advantage and the dynamics of wealth distribution.",
+    "image_url": ""
+  },
+  {
+    "name": "Luke Skywalker",
+    "category": "Movie",
+    "description": "With unwavering resolve and a lightsaber in hand, Luke Skywalker embodies the hero's journey, transforming from a humble farm boy to a legendary Jedi Knight.",
+    "image_url": ""
+  },
+  {
+    "name": "Friedrich Hayek",
+    "category": "Economist",
+    "description": "Friedrich Hayek, a champion of free markets, passionately argued that individual liberty thrives best when unshackled from government control, igniting fervent debates worldwide.",
+    "image_url": ""
+  },
+  {
+    "name": "Theodore Roosevelt",
+    "category": "Politician",
+    "description": "Theodore Roosevelt, a boisterous dynamo, charged through life with unyielding vigor, championing the outdoors and the common man with a raucous laugh and fierce determination.",
+    "image_url": ""
+  },
+  {
+    "name": "Carl Sagan",
+    "category": "Scientist",
+    "description": "With a cosmic curiosity and poetic eloquence, Carl Sagan ignited wonder in the universe, inviting all to explore the stars and ponder our place among them.",
+    "image_url": ""
+  },
+  {
+    "name": "Margaret Thatcher",
+    "category": "Politician",
+    "description": "Margaret Thatcher, the Iron Lady, commanded attention with her steely resolve and unwavering conviction, reshaping Britain�s landscape with fierce determination and unapologetic pragmatism.",
+    "image_url": ""
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "category": "Anime",
+    "description": "With an infectious grin and unwavering determination, Monkey D. Luffy embodies the spirit of adventure, rallying friends and foes alike with his boundless enthusiasm.",
+    "image_url": ""
+  },
+  {
+    "name": "Ellen Ripley",
+    "category": "Movie",
+    "description": "Ellen Ripley, the fierce and unyielding survivor, embodies resilience, courage, and a relentless fight against alien terror, redefining the role of women in sci-fi.",
+    "image_url": ""
+  },
+  {
+    "name": "Levi Ackerman",
+    "category": "Anime",
+    "description": "Levi Ackerman, the stoic yet fiercely loyal soldier, commands respect with his piercing gaze and unmatched skill, embodying strength amidst chaos in \"Attack on Titan.\".",
+    "image_url": ""
+  },
+  {
+    "name": "Ada Lovelace",
+    "category": "Scientist",
+    "description": "Ada Lovelace, the visionary mathematician, danced between poetry and logic, illuminating the world of computing with her groundbreaking insights and imaginative flair.",
+    "image_url": ""
+  },
+  {
+    "name": "Jacinda Ardern",
+    "category": "Politician",
+    "description": "Jacinda Ardern exudes warmth and empathy, effortlessly blending decisive leadership with a compassionate approach that resonates deeply with people from all walks of life.",
+    "image_url": ""
+  },
+  {
+    "name": "Adam Smith",
+    "category": "Economist",
+    "description": "Adam Smith, the father of economics, passionately championed free markets, envisioning a world where individual self-interest harmoniously drives societal prosperity and innovation.",
+    "image_url": ""
+  },
+  {
+    "name": "Edward Elric",
+    "category": "Anime",
+    "description": "With his fiery determination and unwavering resolve, Edward Elric embodies the relentless pursuit of redemption, wielding alchemy like a sword against fate's cruel twists.",
+    "image_url": ""
+  },
+  {
+    "name": "Spike Spiegel",
+    "category": "Anime",
+    "description": "With a laid-back swagger and a smirk that hints at danger, Spike Spiegel navigates the cosmos, blending charm and lethality like a masterful jazz tune.",
+    "image_url": ""
+  },
+  {
+    "name": "Rosalind Franklin",
+    "category": "Scientist",
+    "description": "Rosalind Franklin, a brilliant yet underappreciated scientist, wielded her X-ray images like a sword, piercing through the mysteries of DNA with fierce determination.",
+    "image_url": ""
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "category": "Anime",
+    "description": "With boundless energy and an unwavering spirit, Naruto Uzumaki inspires all to chase their dreams, proving that perseverance can conquer even the darkest challenges.",
+    "image_url": ""
+  },
+  {
+    "name": "Darth Vader",
+    "category": "Movie",
+    "description": "Darth Vader looms as a menacing figure, his heavy breath echoing authority and fear, shrouded in darkness yet commanding unwavering loyalty.",
+    "image_url": ""
+  },
+  {
+    "name": "Indiana Jones",
+    "category": "Movie",
+    "description": "With a rugged fedora and a whip in hand, Indiana Jones embodies adventurous charisma, fearlessly unearthing ancient secrets while charming his way through perilous escapades.",
+    "image_url": ""
+  },
+  {
+    "name": "Tanjiro Kamado",
+    "category": "Anime",
+    "description": "With unwavering determination and a heart full of compassion, Tanjiro Kamado embodies the spirit of a relentless protector, fighting darkness with kindness and courage.",
+    "image_url": ""
+  },
+  {
+    "name": "Hermione Granger",
+    "category": "Movie",
+    "description": "With her fierce intellect and unwavering bravery, Hermione Granger embodies the spirit of a relentless seeker of justice, always ready to challenge the status quo.",
+    "image_url": ""
+  },
+  {
+    "name": "Forrest Gump",
+    "category": "Movie",
+    "description": "Forrest Gump's endearing simplicity and unwavering kindness illuminate every moment, reminding us that life is a box of chocolates, full of unexpected surprises.",
+    "image_url": ""
+  },
+  {
+    "name": "Barack Obama",
+    "category": "Politician",
+    "description": "Barack Obama exudes a calm charisma, effortlessly blending eloquence with empathy, inspiring hope while championing unity and progress in a divided world.",
+    "image_url": ""
+  },
+  {
+    "name": "Albert Einstein",
+    "category": "Scientist",
+    "description": "With wild, unkempt hair and a twinkle in his eye, Einstein embodied playful genius, effortlessly blending profound intellect with a childlike curiosity about the universe.",
+    "image_url": ""
+  },
+  {
+    "name": "Nelson Mandela",
+    "category": "Politician",
+    "description": "Nelson Mandela radiated resilience and compassion, inspiring millions with his unwavering commitment to justice and reconciliation in the face of profound adversity.",
+    "image_url": ""
+  },
+  {
+    "name": "Milton Friedman",
+    "category": "Economist",
+    "description": "Milton Friedman, a fiery advocate for free markets, captivated audiences with his sharp wit and unwavering belief in individual liberty over government intervention.",
+    "image_url": ""
+  },
+  {
+    "name": "Amartya Sen",
+    "category": "Economist",
+    "description": "Amartya Sen, a beacon of compassion and intellect, champions social justice and welfare, weaving complex economic theories into the fabric of human rights.",
+    "image_url": ""
+  },
+  {
+    "name": "Charles Darwin",
+    "category": "Scientist",
+    "description": "With a curious mind and a gentle demeanor, Charles Darwin captivated audiences, unraveling nature's mysteries while challenging conventional beliefs with his groundbreaking theories of evolution.",
+    "image_url": ""
+  },
+  {
+    "name": "Isaac Newton",
+    "category": "Scientist",
+    "description": "Isaac Newton, the enigmatic genius, illuminated the cosmos with his groundbreaking laws of motion, yet remained a solitary figure, shrouded in mystery and introspection.",
+    "image_url": ""
+  },
+  {
+    "name": "Katherine Johnson",
+    "category": "Scientist",
+    "description": "Katherine Johnson, a brilliant mathematician, shattered barriers with her precision calculations, propelling astronauts into space and inspiring generations with her unwavering determination and intellect.",
+    "image_url": ""
+  },
+  {
+    "name": "Winston Churchill",
+    "category": "Politician",
+    "description": "Winston Churchill, with his indomitable spirit and booming voice, inspired a nation through the darkest hours, embodying resilience and unwavering resolve in the face of adversity.",
+    "image_url": ""
+  }
+]
